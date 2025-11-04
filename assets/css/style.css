@@ -43,3 +43,12 @@ body{
     background-color: red;
     margin-left: 20px;
 }
+
+img{
+    float: left;
+
+}
+
+footer{
+    clear: left;
+}
