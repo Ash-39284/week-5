@@ -52,3 +52,26 @@ img{
 footer{
     clear: left;
 }
+
+.one{
+    float: left;
+    width: 25%;
+    background-color: blueviolet;
+}
+
+.two{
+    float: left;
+    width: 25%;
+    background-color: brown;
+}
+
+.three{
+    float: left;
+    width: 40%;
+    background-color: chartreuse;
+}
+
+.container{
+    display: flex;
+    gap: 10px;
+}
